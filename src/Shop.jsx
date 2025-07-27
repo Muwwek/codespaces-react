@@ -46,7 +46,7 @@ export default function Shop() {
         <div className="shop-container">
             {/* --- Sidebar (Left Column) --- */}
             <aside className="sidebar">
-                <h2 className="shop-logo">Mew Books</h2>
+                <h2 className="shop-logo">Khod Mew Books</h2>
                 <nav className="nav-links">
                     <a href="/" className="nav-link">Home</a>
                     <a href="/products" className="nav-link">Products</a>
