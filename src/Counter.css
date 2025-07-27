@@ -1,0 +1,20 @@
+.btn1{
+    background-color: aquamarine;
+    padding: 20px;
+    border: 2px solid #0ad135;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.btn2{
+    background-color: #ffe357;
+    padding: 20px;
+    border: 2px solid #8d026f;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.cage-c{
+    margin-left: 10px;
+}
